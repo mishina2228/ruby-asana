@@ -12,3 +12,4 @@
 test.rb
 /node_modules/
 /gemfiles/
+.ruby-version
